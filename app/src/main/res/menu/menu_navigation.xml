@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/message_single"
+            android:icon="@mipmap/icon_message"
+            android:title="消息"
+            app:actionLayout="@layout/bage_hint" />
+
+        <item
+            android:id="@+id/info_single"
+            android:icon="@mipmap/icon_info"
+            android:title="个人信息" />
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/share"
+            android:icon="@mipmap/icon_protocol"
+            android:title="用户协议" />
+
+        <item
+            android:id="@+id/single_4"
+            android:icon="@mipmap/icon_about_us"
+            android:title="关于我们" />
+    </group>
+
+    <group android:id="@+id/group3">
+        <item
+            android:id="@+id/single_5"
+            android:title=""></item>
+    </group>
+    <!--    <item-->
+    <!--        android:title="子菜单">-->
+    <!--        <menu>-->
+    <!--            <item-->
+    <!--                android:id="@+id/item_2"-->
+    <!--                android:icon="@mipmap/icon_client"-->
+    <!--                android:title="淘宝"/>-->
+
+    <!--            <item-->
+    <!--                android:id="@+id/item_1"-->
+    <!--                android:icon="@mipmap/icon_client"-->
+    <!--                android:title="百度"/>-->
+
+    <!--            <item-->
+    <!--                android:id="@+id/item_3"-->
+    <!--                android:icon="@mipmap/icon_client"-->
+    <!--                android:title="腾讯"/>-->
+    <!--        </menu>-->
+    <!--    </item>-->
+</menu>

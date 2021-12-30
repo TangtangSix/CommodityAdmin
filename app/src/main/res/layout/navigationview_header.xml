@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.navigation.NavigationView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/image_user"
+            android:src="@mipmap/icon_my"
+            android:layout_gravity="center"
+            app:riv_oval="true"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:id="@+id/text_user_name"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_height="45dp"
+                android:text="管理员"
+                android:gravity="center_vertical"
+                android:textSize="25sp"
+                >
+
+            </TextView>
+            <TextView
+                android:id="@+id/text_user_root"
+                android:layout_width="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_height="25dp"
+                android:text="管理员"
+                android:layout_gravity="center_vertical"
+                android:textSize="15sp"
+                >
+
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+</com.google.android.material.navigation.NavigationView>

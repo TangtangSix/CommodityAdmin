@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable-v24/edit.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/background_card.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/background_grey_e6e6e6.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/border_input_box.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/button_back.xml" value="0.26564102564102565" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/button_click.xml" value="0.12916666666666668" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/button_delete.xml" value="0.26564102564102565" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/button_dialog_cancel.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/button_dialog_ok.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/button_upload_background.xml" value="0.24537037037037038" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/dialog_confirm_background.xml" value="0.25555555555555554" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/dialog_loading_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/gif.xml" value="0.25555555555555554" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/layout_item_click.xml" value="0.24166666666666667" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/drawable/search_view_background.xml" value="0.14479166666666668" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/activity_client_info.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/activity_goods_info.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/activity_order_info.xml" value="0.4" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/bage_hint.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/client_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/dialog_confirm.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/dialog_loading.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/dialog_upload.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/fragment_client.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/fragment_goods.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/fragment_order.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/fragment_user.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/goods_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/goods_item.xml" value="0.14375" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/item_client.xml" value="0.15572916666666667" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/item_goods.xml" value="0.4" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/item_order.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/item_order_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/navigationview_header.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/order_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/spinner_item.xml" value="0.13854166666666667" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/user_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/layout/vip_view.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/menu/menu_navigation.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidProject/CommodityAdmin/app/src/main/res/menu/menu_operation.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
